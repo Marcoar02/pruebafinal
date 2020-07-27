@@ -23,7 +23,7 @@
         </li>
  
         <li id="item-dos">
-          <a href="#">Enlace dos</a>
+          <a href="datoscurso.jsp">Datos de Cursos</a>
         </li>
  
         <li id="item-tres">
